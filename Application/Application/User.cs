@@ -8,6 +8,7 @@ namespace Application
 {
     public class User
     {
+        //02326
         //esto es otro comentario
     }
 }
