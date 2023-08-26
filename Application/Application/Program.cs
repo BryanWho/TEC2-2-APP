@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //eswto es un comentario
+            //esto es un comentario
             Console.WriteLine("Hello, World!");
         }
     }
